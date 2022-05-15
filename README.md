@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **giorgi200706/giorgi200706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=giorgi200706&count_private=true&show_icons=true&theme=radical)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi200706&show_icons=true&theme=radical)
+
+![](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff
+)
