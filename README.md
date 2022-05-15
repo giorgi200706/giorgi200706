@@ -6,6 +6,14 @@ I am George. I am 14 years old and I am studying programming My goal is to becom
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi200706&layout=compact)](https://github.com/giorgi200706/github-readme-stats)
 
+Connect with me:
+<div style="display: flex;"> 
+  <img style=" width: 22px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" href="https://www.facebook.com/tchanturia.gio/">
+  <img style=" width: 22px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/george_tch">
+  <img style=" width: 22px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href= "https://www.instagram.com/giorgi.tch_/">
+</div>
+
+Languages and Tools:
 ![](https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=fff)
 ![](https://img.shields.io/badge/-PYTHON-776AB?logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/-FLASK-000000?logo=flask&logoColor=fff)
@@ -13,9 +21,4 @@ I am George. I am 14 years old and I am studying programming My goal is to becom
 ![](https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=fff)
 ![](https://img.shields.io/badge/-SASS-CC6699?logo=scss&logoColor=fff)
 
-<div style=" width: 350px; display: flex; justify-content: space-between; "> 
-  <img style=" width: 22px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" href="https://youtube.com/">
-  <img style=" width: 22px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/"/>
-  <img style=" width: 22px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href= "https://www.instagram.com/in/"/>
-</div>
 
