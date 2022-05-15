@@ -19,7 +19,7 @@ I am George. I am 14 years old and I am studying programming My goal is to becom
   Languages and Tools:
 </h3>
 
-![](https://img.shields.io/badge/-VSCode-#007ACC?logo=visual-studio-code&logoColor=fff)
+![](https://img.shields.io/badge/-Visual-Studio-Code-#007ACC?logo=visual-studio-code&logoColor=fff)
 ![](https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=fff)
 ![](https://img.shields.io/badge/-PYTHON-776AB?logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/-FLASK-000000?logo=flask&logoColor=fff)
