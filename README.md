@@ -13,7 +13,7 @@ I am George. I am 14 years old and I am studying programming My goal is to becom
 ![](https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=fff)
 ![](https://img.shields.io/badge/-SASS-CC6699?logo=scss&logoColor=fff)
 
-<img style=" align=left width=22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" / href="https://youtube.com/">
-<img style=" align=left width=22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/"/>
-<img style=" align=left width=22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href= "https://www.linkedin.com/in/"/>
+<img style=" width=22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" / href="https://youtube.com/">
+<img style=" width=22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/"/>
+<img style=" width=22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href= "https://www.linkedin.com/in/"/>
 
