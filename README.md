@@ -1,12 +1,16 @@
 Hi there 👋
 
+<p>
 I am George. I am 14 years old and I am studying programming My goal is to become a perfect full-stack developer.
+</p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgi200706&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi200706&layout=compact)](https://github.com/giorgi200706/github-readme-stats)
 
-Connect with me:
+<h2>
+  Connect with me:
+</h2>
 <div style="display: flex;"> 
   <img style=" width: 22px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" href="https://www.facebook.com/tchanturia.gio/">
   <img style=" width: 22px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/george_tch">
