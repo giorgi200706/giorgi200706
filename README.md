@@ -4,8 +4,6 @@ Hi there 👋
 I am George. I am 14 years old and I am studying programming My goal is to become a perfect full-stack developer.
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgi200706&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi200706&layout=compact)](https://github.com/giorgi200706/github-readme-stats)
 
 <h3>
