@@ -19,7 +19,6 @@ I am George. I am 14 years old and I am studying programming My goal is to becom
   Languages and Tools:
 </h3>
 
-<img style="width: 22px" href="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png">
 ![](https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=fff)
 ![](https://img.shields.io/badge/-PYTHON-776AB?logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/-FLASK-000000?logo=flask&logoColor=fff)
