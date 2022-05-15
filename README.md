@@ -13,7 +13,10 @@ Connect with me:
   <img style=" width: 22px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href= "https://www.instagram.com/giorgi.tch_/">
 </div>
 
-Languages and Tools:
+<h2>
+  Languages and Tools:
+</h2>
+
 ![](https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=fff)
 ![](https://img.shields.io/badge/-PYTHON-776AB?logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/-FLASK-000000?logo=flask&logoColor=fff)
