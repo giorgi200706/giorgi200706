@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi200706&show_icons=true&theme=radical)
 
-![](https://img.shields.io/badge/-C++-#00599C?logo=c++&logoColor=#00599C)
+![](https://img.shields.io/badge/-C++-#00599C?logo=c++&logoColor=#fff)
