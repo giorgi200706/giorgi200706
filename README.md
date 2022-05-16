@@ -34,7 +34,9 @@ Hi there 👋
 </div>
 
 <br/> 
-[![Top Langs]("https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi200706&layout=compact")](https://github.com/giorgi200706/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi200706&layout=compact)](https://github.com/giorgi200706/github-readme-stats)
+
 <br/>
 
 <h3>
