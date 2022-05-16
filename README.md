@@ -20,7 +20,9 @@ Hi there 👋
 
 <br/>
 
-### Languages and Tools:  
+<h3>
+  Languages and Tools:
+</h3> 
 <div>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
@@ -31,7 +33,9 @@ Hi there 👋
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
 
-<br/>  
+<br/> 
 
-Github Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   
+<h3>
+  Github stats:
+</h3> 
+<div><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true"/></div>   
