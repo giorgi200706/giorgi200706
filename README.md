@@ -14,6 +14,9 @@ I am George. I am 14 years old and I am studying programming My goal is to becom
   <img style=" width: 22px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/george_tch">
   <img style=" width: 22px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href= "https://www.instagram.com/giorgi.tch_/">
 </div>
+![facebook](https://m.facebook.com/100014468055464/)
+https://www.instagram.com/giorgi.tch_/
+https://mobile.twitter.com/george_tch
 
 <h3>
   Languages and Tools:
