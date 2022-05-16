@@ -2,8 +2,6 @@ Hi there 👋
 <div>I am George. I am 14 years old and I am studying programming My goal is to become a perfect full-stack developer. 🚀</div>  
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi200706&layout=compact)](https://github.com/giorgi200706/github-readme-stats)
-
 <h3>
   Connect with me:
 </h3>
@@ -34,6 +32,8 @@ Hi there 👋
 </div>
 
 <br/> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi200706&layout=compact)](https://github.com/giorgi200706/github-readme-stats)
+<br/>
 
 <h3>
   Github stats:
