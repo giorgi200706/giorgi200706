@@ -14,10 +14,10 @@ I am George. I am 14 years old and I am studying programming My goal is to becom
   https://m.facebook.com/100014468055464/
   <br>
   <img style=" width: 22px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/george_tch">
-  https://www.instagram.com/giorgi.tch_/
+  https://mobile.twitter.com/george_tch
   <br>
   <img style=" width: 22px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href= "https://www.instagram.com/giorgi.tch_/">
-  https://mobile.twitter.com/george_tch
+  https://www.instagram.com/giorgi.tch_/
 </div>
 
 <h3>
@@ -30,7 +30,3 @@ I am George. I am 14 years old and I am studying programming My goal is to becom
 ![](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
 ![](https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=fff)
 ![](https://img.shields.io/badge/-SASS-CC6699?logo=scss&logoColor=fff)
-
-https://m.facebook.com/100014468055464/
-https://www.instagram.com/giorgi.tch_/
-https://mobile.twitter.com/george_tch
