@@ -31,7 +31,6 @@ Hi there 👋
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
 
-<br/> 
 <br/>
 <h3>
   Github stats:
