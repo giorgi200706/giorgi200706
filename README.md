@@ -33,12 +33,9 @@ Hi there 👋
 
 <br/> 
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi200706&layout=compact)](https://github.com/giorgi200706/github-readme-stats)
-
-<br/>
-
 <h3>
   Github stats:
 </h3> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi200706&layout=compact)](https://github.com/giorgi200706/github-readme-stats)
 <div><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true"/></div>   
