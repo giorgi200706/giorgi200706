@@ -11,10 +11,13 @@ I am George. I am 14 years old and I am studying programming My goal is to becom
 </h3>
 <div style="display: flex;"> 
   <img style=" width: 22px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" href="https://www.facebook.com/tchanturia.gio/">
+  https://m.facebook.com/100014468055464/
   <img style=" width: 22px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/george_tch">
+  https://www.instagram.com/giorgi.tch_/
   <img style=" width: 22px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href= "https://www.instagram.com/giorgi.tch_/">
+  https://mobile.twitter.com/george_tch
 </div>
-![facebook](https://m.facebook.com/100014468055464/)
+https://m.facebook.com/100014468055464/
 https://www.instagram.com/giorgi.tch_/
 https://mobile.twitter.com/george_tch
 
