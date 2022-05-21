@@ -7,7 +7,7 @@ Hi there 👋
 </h3>
 <div style="display: flex;"> 
   <img style=" width: 22px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" href="https://www.facebook.com/tchanturia.gio/">
-  [https://m.facebook.com/100014468055464/](https://www.facebook.com/tchanturia.gio)
+  https://www.facebook.com/tchanturia.gio
   <br>
   <img style=" width: 22px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/george_tch">
   https://mobile.twitter.com/george_tch
