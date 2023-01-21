@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" />
 </div>  
 
 <div>I am George. I am 15 years old and I am studying programming My goal is to become a perfect software engineer. 🚀</div>  
