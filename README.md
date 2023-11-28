@@ -1,6 +1,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 30%" />
 
-<div>I am George. I am 15 years old and I am studying programming My goal is to become a perfect software engineer. 🚀</div>  
+<div>I am George. I am 16 years old and I am studying programming My goal is to become a perfect software engineer. 🚀</div>  
 <br/>
 
 <h3>
@@ -26,7 +26,6 @@
 <img style:"margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
@@ -38,5 +37,4 @@
   Github stats:
 </h3>  
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi200706&layout=compact)](https://github.com/giorgi200706/github-readme-stats)-->
-<div><img src="https://github-readme-stats.vercel.app/api?username=giorgi200706&show_icons=true&count_private=true&hide_border=true"/></div>   
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi200706&layout=compact)](https://github.com/giorgi200706/github-readme-stats)--> 
