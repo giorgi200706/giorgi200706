@@ -1,6 +1,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 30%" />
 
-<div>I am George. I am 16 years old and I am studying programming My goal is to become a perfect software engineer. 🚀</div>  
+<div>I am George. I am 16 years old and I am learning programming My goal is to become a perfect software engineer. 🚀</div>  
 <br/>
 
 <h3>
